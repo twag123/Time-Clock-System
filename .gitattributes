@@ -1,0 +1,4 @@
+jre-win-1.7.0_04libmodules* filter=lfs diff=lfs merge=lfs -text
+jre-win-1.7.0_04/libmodules/* filter=lfs diff=lfs merge=lfs -text
+jre-win-1.7.0_04/libmodules filter=lfs diff=lfs merge=lfs -text
+jre-win-1.7.0_04/lib/modules filter=lfs diff=lfs merge=lfs -text
